@@ -32,7 +32,7 @@ body .hide{display:none;}
 
 
 /***********default settings**********/
-body {font-family: "微软雅黑","Arial","Helvetica","sans-serif";font-size:16px;}
+body {font-family: "微软雅黑","Arial","Helvetica","sans-serif";font-size:16px;background-color:#FFFACD;}
 a {color:#4A75B5;text-decoration:none;outline:none;}
 a:hover {text-decoration:underline}
 a.external {padding-right:13px;background:url('/images/icons.gif') no-repeat right 1px;}
@@ -52,7 +52,7 @@ pre code{background-color:transparent;border:none;padding:0;word-wrap:normal;}
 pre ol{margin-left:25px;list-style-type:decimal;}
 
 /************layout style*****************/
-#content {width:1060px;margin:90px auto 60px;min-height:400px;height:auto !important;height:400px; background-color:#FFFACD;}
+#content {width:1060px;margin:90px auto 60px;min-height:400px;height:auto !important;height:400px;}
 
 
 /****************entry style**************/
