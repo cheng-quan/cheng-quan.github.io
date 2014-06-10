@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 听雨
+title: 语言检测工具 - Language Detection Tool
 category: project
-description: 不知道这是杯具还是悲剧，反正就是可以假装下雨了。
+description: 一个采用Tri-gram语言模型实现的语言检测工具，语言检测准确率能达到95%以上。
 ---
 
 **之前直接下载.crx文件的童鞋，现在可以把原来的卸载，直接在Chrome Web Store中下载了，地址：[It's Raining][4]**
