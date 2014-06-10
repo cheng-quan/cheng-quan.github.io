@@ -33,6 +33,4 @@ description: 一个采用Tri-gram语言模型实现的语言检测工具，检�
 
 [这里][1]是该语言检测工具的源码。
 
-![Raining](/images/rainingchrome/rain.jpg)
-
 [1]:    https://github.com/cheng-quan/Language-Detector
